@@ -1,2 +1,2 @@
-# OMGWeAreTheBomb
-We are the dream team for homeWORK 7
+# HW 7 Tetris 
+print("Hello World")
